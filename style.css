@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: aqua;
+  }
+  #navbar {
+    background-color: rgba(205, 60, 75, 0.834);
+    top: 0px;
+    left: 0px;
+    width: 250px;
+    height: 100%;
+    
+  }
+  
+  .nav-links {
+    text-decoration: none;
+    color: rgb(203, 182, 182);
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  a:hover {
+    color: cyan;
+  }
+  #main-doc{
+    margin-left: 250px;
+    padding: 10px;
+  
+  }
